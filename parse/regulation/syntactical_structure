@@ -1,0 +1,10 @@
+subject-subject
+subject-virtual_object
+subject-indicators_object:n
+subject-indicators_normal:n
+subject-indicators_number:n
+subject-indicators_object:n-indicators_normal:n
+subject-indicators_object:n-indicators_number:n
+subject-virtual_object-indicators_object:n
+subject-virtual_object-indicators_object:n-indicators_normal:n
+subject-virtual_object-indicators_object:n-indicators_number:n

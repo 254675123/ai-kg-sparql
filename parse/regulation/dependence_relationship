@@ -1,0 +1,4 @@
+0:indicators_number<-formula
+1:formula->indicators_number
+2:indicators_number->virtual_object
+3:date_time-->indicators_number
